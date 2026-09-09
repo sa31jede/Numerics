@@ -1,4 +1,4 @@
-# NumericalAnalysis
+# Numerics
 
 This repository contains Python implementations for numerical analysis. 
 
